@@ -1,28 +1,27 @@
 # WMT19SrcDA
 
-Code and issue tracker for WMT19 source-based DA campaigns
+Instructions and issue tracker for WMT19 reference-based DA campaigns
 
 ## TL;DR
 
-- WMT19 will feature source-based direct assessment (DA)
-- Evaluation will be based on document-level annotation
-- Source-based DA will focus on non-English target languages
-- Please use the [Github issue tracker](https://github.com/cfedermann/WMT19SrcDA/issues) to report any problems
+- WMT19 will feature reference-based direct assessment (DA), carried out by research teams
+- This evaluation will be based on segment-level annotation
+- Please use the [Github issue tracker](https://github.com/bricksdont/WMT19RefDA/issues) to report any problems
 
 ## Timeline
 
-- 5/09: eval plan online on Github
-- 5/15--5/16: research teams request accounts
-- 5/17: annotation starts
+- 5/10--5/15: research teams request accounts
+- 5/15: instructions online on Github
+- 5/15: notification sent out to teams, annotation starts
 - 5/27: annotation ends
 
 ## Campaign overview
 
 ### How will the annotation work?
 
-Annotations will be collected in Appraise, implementing document-level,
-source-based direct assessment. For every language pair, there will be a
-pre-generated amount of annotations tasks (``HITs''). We also generate
+Annotations will be collected in Turkle, implementing segment-level,
+reference-based direct assessment. For every language pair, there will be a
+pre-generated amount of annotations tasks ("HITs"). We also generate
 anonymised accounts which are pre-assigned to exactly two annotation tasks.
 Based on previous WMT evaluation campaigns, the average annotation time for
 two tasks is one hour. So, every annotation account maps to one hour of work.
@@ -61,7 +60,7 @@ There is no personal information attached to the annotation accounts. We
 capture your assessments and related metadata, such as annotation start and
 end time as well as duration per single assessment.
 
-### How does source-based DA work?
+### How does reference-based DA work?
 
 TBA
 
