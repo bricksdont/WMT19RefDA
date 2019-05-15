@@ -37,7 +37,7 @@ per primary system** submission. This translates to **16 completed tasks** on Tu
 
 ### Who can be an annotator?
 
-The reference-based evaluation campaign is curently run for the following target languages: CS, FR, DE, EN. **To participate in this evaluation, you need to be proficient in one of those languages.**
+The reference-based evaluation campaign is currently run for the following target languages: CS, FR, DE, EN. **To participate in this evaluation, you need to be proficient in one of those languages.**
 
 ### How are accounts distributed?
 
