@@ -8,7 +8,7 @@ Instructions and issue tracker for WMT19 reference-based DA campaigns
 - WMT19 will feature reference-based direct assessment (DA), carried out by research teams
 - This evaluation will be based on segment-level annotation
 - Language pairs we are currently running are: DE-CS, DE-FR, CS-DE, ZH-EN
-- To participate, **you need to be proficient in one of the target languages only**
+- To participate, **you need to be proficient in one of the target languages only (CS, DE, FR or EN)**
 - Please use the [Github issue tracker](https://github.com/bricksdont/WMT19RefDA/issues) to report any problems
 
 ## Timeline
