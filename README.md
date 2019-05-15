@@ -4,8 +4,11 @@ Instructions and issue tracker for WMT19 reference-based DA campaigns
 
 ## TL;DR
 
+- Find the login page here: https://wmt19.waypost.net/
 - WMT19 will feature reference-based direct assessment (DA), carried out by research teams
 - This evaluation will be based on segment-level annotation
+- Language pairs we are currently running are: DE-CS, DE-FR, CS-DE, ZH-EN
+- To participate, **you need to be proficient in one of the target languages only**
 - Please use the [Github issue tracker](https://github.com/bricksdont/WMT19RefDA/issues) to report any problems
 
 ## Timeline
@@ -21,7 +24,9 @@ Instructions and issue tracker for WMT19 reference-based DA campaigns
 
 Annotations will be collected in Turkle, implementing segment-level,
 reference-based direct assessment. For every language pair, there will be a
-pre-generated amount of annotations tasks ("HITs"). We also generate
+pre-generated amount of annotations tasks ("HITs").
+
+We also generate
 anonymised accounts which are pre-assigned to exactly two annotation tasks.
 Based on previous WMT evaluation campaigns, the average annotation time for
 two tasks is one hour. So, every annotation account maps to one hour of work.
@@ -29,42 +34,31 @@ two tasks is one hour. So, every annotation account maps to one hour of work.
 ### How much annotation work is needed?
 
 Each research team is expected to contribute **eight hours of annotation work
-per primary system** submission.
+per primary system** submission. Based on previous WMT evaluation campaigns, the average annotation time for one task is 30 minutes. One task involves approximately 100 judgements.
 
 ### Who can be an annotator?
 
-The source-based evaluation campaign is run for non-English target languages.
-This means that we look for native speakers of the non-English target language
-who are also proficient in English and can assess translation quality from
-English into their native language.
+The reference-based evaluation campaign is curently run for the following target languages: CS, FR, DE, EN. **To participate in this evaluation, you need to be proficient in one of those languages.**
 
 ### How are accounts distributed?
 
-Account distribution is based on first-come, first-served basis, i.e., once
-an account is marked as ``assigned'' to a team you cannot claim it anymore.
-Each research team should designate a team leader who is then responsible to
-reserve the required amount of accounts for their team.
+We kindly ask you to sign up in this Google form: https://forms.gle/tcNiaiJpoyqi2hZ79, with your preferred user name. We will create this account on Turkle for you, and reach out to you by email to confirm.
 
-### Where can I claim my account?
-
-TBA
-
-### How can I sign into Appraise?
+### How can I sign into Turkle?
 
 For each account, we provide a **single sign-on (SSO) URL**. This allows you
 to sign into Appraise with a single click on the URL, making access very easy.
 
-### What information do you store about me?
-
-There is no personal information attached to the annotation accounts. We
-capture your assessments and related metadata, such as annotation start and
-end time as well as duration per single assessment.
-
 ### How does reference-based DA work?
 
-TBA
+You are shown two sentences at a time, both in the same language. Your task is to judge whether the second sentence has the same meaning as the first.
 
 ### How can I report problems?
 
-Please use the [Github issue tracker](https://github.com/cfedermann/WMT19SrcDA/issues)
-to report any problems. You can also contact me via ``chrife [at] microsoft [dot] com``.
+Please use the [Github issue tracker](https://github.com/bricksdont/WMT19RefDA/issues)
+to report any problems. For urgent problems you can also contact
+
+- Matt via `post [at] cs [dot] jhu [dot] edu`
+- Mathias via `mmueller [at] cl [dot] uzh [dot] ch`
+
+Thank you for your participation!
