@@ -26,15 +26,14 @@ Annotations will be collected in Turkle, implementing segment-level,
 reference-based direct assessment. For every language pair, there will be a
 pre-generated amount of annotations tasks ("HITs").
 
-We also generate
-anonymised accounts which are pre-assigned to exactly two annotation tasks.
-Based on previous WMT evaluation campaigns, the average annotation time for
-two tasks is one hour. So, every annotation account maps to one hour of work.
+Users are trusted to select a task with a target language they are proficient in. For instance, users that speak German should accept tasks from `wmt19-fr-de`.
 
 ### How much annotation work is needed?
 
+Based on previous WMT evaluation campaigns, the average annotation time for one task is 30 minutes. One task involves approximately 100 judgements.
+
 Each research team is expected to contribute **eight hours of annotation work
-per primary system** submission. Based on previous WMT evaluation campaigns, the average annotation time for one task is 30 minutes. One task involves approximately 100 judgements.
+per primary system** submission. This translates to **16 completed tasks** on Turkle.
 
 ### Who can be an annotator?
 
@@ -46,8 +45,9 @@ We kindly ask you to sign up in this Google form: https://forms.gle/tcNiaiJpoyqi
 
 ### How can I sign into Turkle?
 
-For each account, we provide a **single sign-on (SSO) URL**. This allows you
-to sign into Appraise with a single click on the URL, making access very easy.
+Please go to https://wmt19.waypost.net/ and use 1) the username you indicated in the Google form and 2) the initial password we sent to you by email.
+
+**Please change your initial password before accepting any tasks**
 
 ### How does reference-based DA work?
 
