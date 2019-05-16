@@ -38,7 +38,7 @@ per primary system** submission. You can allocate those work hours either
 - in this campaign (the instructions you are looking at right now)
 - or in our source-based evaluation campaign on Appraise, run by Christian Federmann: https://github.com/cfedermann/WMT19SrcDA
 
-This translates to **16 completed tasks** in total, on Turkle and Appraise combined, per primary system.
+This translates to **16 completed tasks** in total, on Turkle or Appraise, per primary system.
 
 ### Who can be an annotator?
 
