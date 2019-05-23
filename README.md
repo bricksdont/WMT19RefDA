@@ -18,6 +18,10 @@ Instructions and issue tracker for WMT19 reference-based DA campaigns
 - 5/15: notification sent out to teams, annotation starts
 - 5/27: annotation ends
 
+## Updates
+
+- 5/22: Clarified annotation workload for ZH-EN
+
 ## Campaign overview
 
 ### How will the annotation work?
@@ -39,6 +43,8 @@ per primary system** submission. You can allocate those work hours either
 - or in our source-based evaluation campaign on Appraise, run by Christian Federmann: https://github.com/cfedermann/WMT19SrcDA
 
 This translates to **16 completed tasks** in total, on Turkle or Appraise, per primary system.
+
+**Update and clarification 5/22**: We are now aware that some tasks in ZH-EN take longer due to long sentences. If that is the case for you, please stop after 8 hours instead of 16 tasks. Be prepared to explain when we are checking team contributions.
 
 ### Who can be an annotator?
 
