@@ -16,12 +16,13 @@ Instructions and issue tracker for WMT19 reference-based DA campaigns
 - 5/10--5/15: research teams request accounts
 - 5/15: instructions online on Github
 - 5/15: notification sent out to teams, annotation starts
-- 5/31: annotation ends
+- 6/07: annotation ends
 
 ## Updates
 
 - 5/22: Clarified annotation workload for ZH-EN
 - 5/28: updated end of annotation to May 31
+- 6/04: updated end of annotation to June 7
 
 ## Campaign overview
 
